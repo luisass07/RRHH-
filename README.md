@@ -1,7 +1,7 @@
 # RRHH-
 # ERP RRHH – Sprint 1
 
-## 📌 Descripción del Proyecto
+#Descripción del Proyecto
 
 Este proyecto corresponde al desarrollo inicial de un módulo de Recursos Humanos para un ERP, implementado bajo metodología Scrum y trabajando 100% en la nube.
 
@@ -16,33 +16,33 @@ El objetivo principal fue integrar backend, análisis de datos y fundamentos de 
 
 ---
 
-## 👥 Integrantes
+#Integrantes
 
-- Nombre Completo 1 – Rol (Ej. Backend / Data Engineering)
-- Nombre Completo 2 – Rol (Ej. Data Science / Arquitectura)
+- Maria Luisa Silva Santiago – Rol Product Owner
+- Juan Sebastian Muñoz Melo – Rol Desarrolador
 
 ---
 
-## 🏗 Arquitectura del Proyecto
+#Arquitectura del Proyecto
 
 El sistema está dividido en tres componentes principales:
 
-### 1️⃣ API REST (Backend)
+#API REST (Backend)
 - Framework: FastAPI
 - Endpoints para creación y consulta de empleados
 - Validación de datos mediante modelos
 
-### 2️⃣ Pipeline ETL
+#Pipeline ETL
 - Limpieza de datos salariales
 - Transformación y cálculo de salario anual
 - Preparación de datos para análisis
 
-### 3️⃣ Modelo Predictivo (MLOps Base)
+#Modelo Predictivo (MLOps Base)
 - Regresión Logística
 - División entrenamiento/prueba
 - Evaluación con métricas de clasificación
 
-### 🔹 Enfoque Arquitectónico
+# 🔹 Enfoque Arquitectónico
 Se implementó una separación clara entre:
 
 - Capa transaccional (API)
@@ -51,20 +51,19 @@ Se implementó una separación clara entre:
 
 ---
 
-## 🔗 Enlaces del Proyecto
+#Enlaces del Proyecto
 
 📘 Documentación arc42 (Notion):  
-👉 [INSERTAR LINK AQUÍ]
+👉 https://www.notion.so/1256511918ed411a8919b2d2b0076bf4?v=5f046c0c505f40e3abedb3fb8584cbf9&source=copy_link 
 
 🎨 Diseño UI/UX (Figma):  
-👉 [INSERTAR LINK AQUÍ]
+👉 https://www.figma.com/design/YVeR5lCisH376KmUf9Yaf0/Sin-t%C3%ADtulo?node-id=0-1&t=O5hLbpXpGCqsYDyf-0
 
 📊 Notebook ETL y Modelo (Colab):  
-👉 [INSERTAR LINK AQUÍ]
+👉 https://colab.research.google.com/drive/1Ih6a5tgj9achIRgs8lmuXdqyMajbl4hk?usp=sharing
 
----
 
-## 🚀 Estado del Sprint
+#Estado del Sprint
 
 - API funcional ✔
 - ETL implementado ✔
@@ -73,6 +72,6 @@ Se implementó una separación clara entre:
 
 ---
 
-## 📎 Notas
+#Notas
 
 Este proyecto representa la base inicial del sistema ERP y será extendido en futuros Sprints con persistencia en base de datos, automatización DevOps y procesamiento distribuido.
