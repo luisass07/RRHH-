@@ -75,3 +75,5 @@ Se implementó una separación clara entre:
 #Notas
 
 Este proyecto representa la base inicial del sistema ERP y será extendido en futuros Sprints con persistencia en base de datos, automatización DevOps y procesamiento distribuido.
+
+POR FAVOR Revisar el kanban y el collab a profundidad para denotar la realizacion de lo propuesto gracias.
